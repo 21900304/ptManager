@@ -257,6 +257,7 @@ class _P_FoodState extends State<P_Food> {
                                     style: TextStyle(
                                         fontSize: 15,
                                         fontWeight: FontWeight.bold,
+
                                         color: Color(0xFF9F9F9F)),
                                   ),
                                 ),
